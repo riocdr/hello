@@ -1,3 +1,3 @@
-module github.com/riocdr/hello
+module
 
 go 1.21.4
